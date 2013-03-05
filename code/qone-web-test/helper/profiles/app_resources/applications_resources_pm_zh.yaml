@@ -1,0 +1,328 @@
+#pm
+sa_login_name: sa
+pm_login_name: qinpm
+pcm_login_name: qinpcm
+password: intec
+project_management: 项目管理
+
+
+project_list:
+  project_list: 项目列表
+  project_list_title: 项目列表
+
+
+project_estimate:
+  project_estimate: 项目估计
+  personal_estimate_list: 个人估计列表
+  project_estimate_list: 项目估计列表
+  start_project_estimate: 发起项目估计
+  input_offline_estimate: 录入线下估计
+  project_estimate_table: 项目估计表
+  estimate_expert_list: 估计专家列表
+  new_estimate_expert: 新增估计专家
+  modify_estimate_expert: 修改估计专家
+  look_estimate_expert: 查看估计专家
+  disable_expert: 禁用专家
+  enable_expert: 启用专家
+  from_organization_introduction: 从组织内导入
+  estimate_basic_data: 估计基础数据
+  estimate_basic_data_title: 项目估计参数设置
+  estimate_percent: 估计百分比
+  standard_average_efficiency: 标准人均效率
+  standard_one_day_costs: 标准人天费用
+  costs_value: '100'
+  coefficient_difficult: 难度系数
+  close: 关闭
+  new_add: 新增
+  delete: 删除
+  submit: 提交
+  reset: 重置
+  modify: 修改
+  look: 查看
+  determine: 确定
+  
+  
+project_maintain:
+  project_maintain: 项目维护
+  project_approving: 项目立项
+  expand_all: 全部展开
+  all_away: 全部收起
+  project_name: 1
+  view_project_information: 查看项目立项信息
+  close: 关闭
+
+
+project_information:
+  project_information: 项目信息
+  base_information: 基本信息
+  base_information_title: 基本信息
+  base_information_tab_title: '项目编号:'
+  project_staff_tab_sign: 项目人员职责表
+  work_condition_tab_sign: 种类
+  interested_party_sign: 请选择查询条件
+  person_chang_title: 人员替换
+  person_tree_title: 人员列表
+  project_role_sign: '项目未选择的角色:'
+  person_change_history_title: 成员变动历史
+  close: 关闭
+  project_work_environment_title: 项目自定义工作环境
+  standard_work_environment_title: 选择标准工作环境
+  new_add: 新增
+  new_add_title: 新增人员
+  import_organization: 从组织内导入
+  interested_part_view_title: 查看人员
+  interested_part_alter_title: 修改人员
+  process_definition: 过程定义
+  process_definition_title: 项目过程定义
+  submit: 提交
+  return: 返回
+  import_standard_process_title: 参照适用于当前项目的组织标准过程
+  task_split_way_tab_sign: 参照适用于当前项目的组织标准过程
+  select_import_way_title: 选择导入方式
+  import_from_project_template_title: 从项目模板导入
+  project_import_title: project导入
+  select_title: 选择
+  view_task_information_title: 查看以前的任务拆分信息
+  view_cut_list_title: 裁剪列表
+  view_cut_reason_title: 裁剪原因
+  reference_history_project_tab_sign: 'WEB类型:'
+  gantt_map_title: 项目管理-Gantt图
+  receiving_report_title: 查看验收报告[新项目1]
+  receiving_report_print_title: 验收报告
+  project_estimate: 项目估计
+  project_estimate_title: 项目估计列表
+  start_project_estimate: 发起项目估计
+  input_offline_estimate: 录入线下估计
+  project_estimate_list_tab_sign: 估计专家
+  estimate_tracking_tab_sign: 规则名称
+  print: 打印
+  start_project_estimate_title: 项目估计表
+  choose_project_module: 选择项目模块
+  offline_estimate: 线下估计
+  application_to_project: 应用到项目中
+  alter: 修改
+  apply_estimate_result: 应用估计结果
+  force_finish: 强制完成
+  expert_name: chpm
+  delete: 删除
+  view_button: 查看
+  view_estimate_state_title: '川菜002项目: 第1轮估计'
+  view_estimate_comment_title: 项目估计评论
+
+
+project_plan:
+  project_plan: 项目计划
+  plan_change: 计划变更
+  plan_change_list: 计划变更列表
+  plan_change_information: 计划变更详细信息
+  modify_plan_change: 修改计划变更
+  approval_plan_change: 审批计划变更
+  data_manage_plan: 数据管理计划
+  data_manage_plan_list: 数据管理计划列表
+  config_manage_plan: 配置管理计划
+  add_data: 新增数据
+  link_work_product: 关联工作产品
+  training_plan: 培训计划
+  project_training_plan: 项目培训计划
+  maintenance_technology: 维护技能现状
+  maintenance_training_require: 维护培训需求
+  close: 关闭
+  outsource_plan: 外协计划
+  add_outsource_plan: 添加外协计划
+  related_baseline: 关联基线
+  baseline_list: 基线列表
+
+
+risk_problem:
+  risk_problem: 风险问题
+  risk_manage: 风险管理
+  risk_manage_title: 风险列表
+  add_risk: 添加风险
+  import_organization_level_risk: 导入组织级风险
+  organization_level_risk_list: 组织级风险列表
+  alter: 修改
+  delete: 删除
+  close_button: 关闭
+  print_button: 打印
+  problem_print_title: 问题信息
+  view_problem_title: 项目管理-查看问题信息
+  view_risk_title: 项目管理-风险详细信息
+  alter_risk_title: 修改风险信息
+  risk_and_count: 风险统计
+  risk_count_title: 质量数据统计分析：风险统计
+  risk_attribute_count: 按风险属性统计
+  risk_trend_count: 按风险趋势统计
+  submit_date_sign: 提交日期
+  periods_of_time_sign: 时间段
+  problem_manage: 问题管理
+  problem_manage_title: 项目管理-问题列表
+  add_problem: 添加问题
+  task_title: 项目管理-选择所属任务
+  problem_list_print_title: 问题列表
+  add_problem_title: 	项目管理-添加问题
+  alter_problem_title: 项目管理-修改问题信息
+  import_problem: 导入问题
+  import_problem_sign: 请选择文件类型
+  export_problem: 导出问题
+  export_problem_sign: 请选择导出文件的类型
+  view_problem_title: 项目管理-查看问题信息
+  task_information: 任务详细信息
+  identify_problem: 待确认问题
+  identify_problem_title: 项目管理-问题确认
+
+
+project_data:
+  project_data: 项目数据
+  project_data_count_analysis: 项目数据统计分析
+  personal_data: 成员数据
+  member_alteration_history: 成员变动历史
+
+
+cost_manage:
+  cost_manage: 成本管理
+  cost_monitor: 成本监控
+  cost_data_list: 成本数据列表
+  changable_cost_manage: 变动成本管理
+  changable_cost_data_list: 变动成本数据列表
+
+
+project_outsource_manage:
+  project_outsource_manage: 项目外协管理
+  project_outsource_manage_top_title: 外协及控制要求
+
+
+config_manage:
+  config_manage: 配置管理
+  config_library_information: 配置库信息
+  config_library_information_title: 配置库信息
+  develop_library: 开发库
+  control_library: 受控库
+  product_library: 产品库
+  view_config_library_struct_template: 查看配置库结构模板
+  view_config_library_struct: 查看配置库结构
+  config_library_struct_template: 配置库结构模板
+  new_develop_library: 新增开发库
+  create_user_relation: 创建用户关联
+  create_user_relation_title: 配置库用户关联
+  user_config_state: 人员配置状态
+  operation: 操作
+  look: 查看
+  delete: 删除
+  alter: 修改
+  close: 关闭
+  submit: 提交
+  preservation: 保存
+  config_manage_plan: 配置管理计划
+  config_manage_plan_title: 配置管理计划
+  submit_examine_and_approve: 提交审批
+  examine_and_approve: 审批
+  export: 导出
+  config_manage_report: 配置管理报告
+  config_manage_report_title: 配置管理报告
+  new_config_manage_report: 新增配置管理报告
+
+
+project_report:
+  project_report: 项目报告
+  task_report: 任务报告
+  task_information: 任务详细信息
+  task_report_title: 任务报告审批
+  look: 查看
+  examination_and_approval: 审批
+  project_task_list: 项目任务列表
+  progress_report: 进展报告
+  progress_report_title: 进展报告
+  prepare_progress_report: 编写进展报告
+  reply_progress_report: 回复进展报告
+  close: 关闭
+  perservation: 保存
+  measure_report: 测量报告
+  project_measure_active_list: 项目测量活动列表
+  measure_of_target_title: 测量目标
+  measure_of_activity_title: 测量活动
+  plan_summary_title: 计划汇总 
+  check_report: 验收报告
+  write_check_report: 编写验收报告
+  submit: 提交
+  process_assess_report: 过程评估报告
+  process_assess_report_title: 过程评估报告
+  fill_out_the_assessment_records: 填写评估记录
+  project_form: 项目表单
+  project_form_title: 项目表单
+  member_work_log: 成员工作日志
+  completed_log_query: 已填日志查询
+  missing_log_query: 未填日志查询
+  work_calendar: 工作日历
+
+
+work_product:
+  work_product: 工作产品
+  work_product_manage: 工作产品管理
+  work_product_list: 工作产品列表
+  work_area_browse: 工作区浏览
+  please_select_view_work_area: 请您选择要查看的工作区
+  enter_work_area: 进入工作区 -->>
+  repository_file_list: 配置库中文件明细
+  set_user_login: 用户登录设置
+  set_repository_login: 配置库登录设置
+  submit: 提交
+  close: 关闭
+
+product_review:
+  product_review: 产品评审
+  review_plan: 评审计划
+  review_plan_title: 质量计划-评审计划
+  individual_appraisal_conclusion_list: 个人评审结论列表
+  individual_appraisal_conclusion_list_title: 产品评审报告test-个人评审结论列表
+  modify_report_basic_information: 修改报告基本信息
+  modify_report_basic_information_title: 评审报告-产品评审报告test
+  check_the_checklist: 查看检查单
+  check_the_checklist_title: 汇总质量报告
+  defect_list: 缺陷列表
+  defect_list_title: 评审报告-缺陷列表
+  send_mail_notification: 发送邮件通知
+  send_mail_notification_title: 评审报告-发送邮件
+  review_report: 评审报告
+  review_report_title: 质量报告-评审报告
+  review_defect_count: 评审缺陷统计
+  review_defect_count_title: 质量数据统计分析：缺陷统计
+  accoding_to_type_of_defect_statistics: 按缺陷类型统计
+  accoding_to_introduction_of_defects_stage_statistics: 按缺陷引入阶段统计
+  change_shape_size: 改变图形大小
+  change_shape_size_title: 设置宽高
+  review_defect_query: 评审缺陷查询
+  review_defect_query_title: 缺陷查询
+  add_defect: 新增缺陷
+  submit: 提交
+  close: 关闭
+  cancel: 取消
+  modify: 修改
+  
+
+process_audit:
+  process_audit: 过程审核
+  audit_plan: 审核计划
+  audit_plan_title: 质量计划-过程审核计划
+  modify_of_process_audit_plan: 修改过程审核计划
+  check_the_checklist: 查看检查单
+  see_the_list_of_nci: 查看NCI列表
+  audit_report: 审核报告
+  audit_report_title: 质量报告-过程审核报告
+  nci_count: 'NCI统计'
+  nci_count_title: 质量数据统计分析：NCI统计
+  nci_query: 'NCI查询'
+  nci_query_title: 质量数据统计分析：NCI查询
+  close: 关闭
+
+
+test:
+  test: 测试
+  test_plan: 测试计划
+  test_plan_title: 质量计划-测试计划
+  test_report: 测试报告
+  test_report_title: 质量报告-测试报告
+  bug_count: 'Bug统计'
+  bug_count_title:  质量数据统计分析：Bug统计
+  bug_query: 'Bug查询'
+  bug_query_title: Bug查询
+

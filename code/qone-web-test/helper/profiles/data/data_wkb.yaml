@@ -1,0 +1,94 @@
+dm_login_name: myydm
+password: intec
+
+new_todo:
+  context_for_my_todo: 新增待办05
+  personnel_name: 系统管理员
+  
+to_handle_form:
+  form_id_handle: '1'
+  form_id_check: '2'
+  form_id_view: '3'
+  form_id_cancel: '4'
+  form_id_delete: '5'
+  name_for_form: 练习01
+  title: 请选择查询条件
+  
+risk:
+  risk_id: '1'
+  describe_for_risk: 风险描述abc
+  describe_for_modify: 风险描述edf
+  reasons: 描述不准确...
+  
+promble:
+  problem_id: '9'
+  promble_source: 项目风险(7)
+  comment_text: sa评论内容efg
+  promble_describe: 问题描述bb
+  to_verificate: 待验证
+  close: 关闭
+  
+bug:
+  bug_id: '5'
+  bug_title: 5
+  solve_people: 系统管理员
+  
+project_evalue:
+  evalue_id: '1'
+  reuse_degree: 0.4
+  estimated_scale: 200
+  
+progress_report:
+  report_type: 进展报告类型1
+  report_title: 您有进展报告需要提交
+  report_name: 进展报告a
+  current_phase: 所处阶段a
+  comment: 进展报告的评论aaa.....
+
+department_report:
+  report_type: 部门报告类型02
+  title: 您有部门报告需要提交 
+  report_name: 部门报告a
+    
+    
+work_calendar:  
+  work_load: 4
+  description: 计划外工作
+  notice_success: 操作成功！
+  before_text: "工作量合计 "
+  after_text: ".00 小时"
+  work_load_for_update: 5
+  work_diary: 填写的工作日记内容
+ 
+create_order: 
+  order_name: 出差申请
+  order_type: 出差申请
+  project_name: '1'
+  opinion: 同意yes
+  
+create_form: 
+  name_for_form: 出差申请
+  title_for_form: 表单a
+  project_name: '1'
+  opinion_for_form: 同意yes
+  template_name: 审批
+  
+my_meeting:
+  name_for_add_meeting: 我的会议a
+  name_for_modify_meeting: 我的会议b
+  type_for_meeting_summary: '2'
+  anchorman: 系统管理员
+  meeting_id_for_delete: HYJY0021
+  meeting_id_for_modify: HYJY0022
+  meeting_id_for_view: HYJY0002
+  
+message_notice:
+  title: '345'
+  title_for_add: 公告1
+  title_for_modify: 公告345
+  title_for_delete: '123'
+  name_for_add: 系统管理员
+  content_for_add: 公告内容
+  
+  
+  

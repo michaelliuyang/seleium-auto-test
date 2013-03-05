@@ -1,0 +1,120 @@
+# sm
+sa_login_name: sa
+ss_login_name: ss
+ssa_login_name: ssa
+password: intec
+system_manage: 系统管理
+exit: 退出
+
+staff_manage:
+  staff_manage: 人员组织管理
+  department_manage: 部门管理
+  work_group_manage: 工作组管理
+  position_manage: 职位管理
+  position_manage_top_title: 职位维护
+  look_position: 职位信息
+  add_position_top_title: 添加职位
+  add_position_button_name: 添加职位
+  close_button_name: 关闭
+  submit_button_name: 提交
+  modify_position_button_name: 修改
+  look_position_button_name: 查看
+  del_position_button_name: 删除
+  look_disable_Users: listForbidUsers
+  quit_user: 离职 
+  del_department_alert_text: 您确实要删除该部门吗？
+  not_del_department_alert_text2: 对不起，不能删除该项，因为下面有人员、项目或部门报告
+
+system_settings:
+  system_settings: 系统设置
+  role_setting: 角色设置
+  role_setting_top_title: 所有角色列表
+  add_role_notice_success: 角色管理列表页面
+  enum_data: 基础数据
+  bug_enum_type: BUG基础数据设置
+  bug_class: BUG类别
+  bug_priority: BUG优先级
+  bug_resolve_method: BUG解决方式
+  bug_severity: BUG严重程度
+  variable_cost_type: 变动成本科目
+  data_manage_plan_enum_type: 数据管理计划基础数据
+  control_level: 受控级别
+  format: 格式
+  confidential: 保密
+  state: 状态
+  department_report_type: 部门报告类型
+  conference_summary_type: 会议纪要类型
+  nci_severity: NCI严重程度
+  no_plan_task_type: 计划外任务类型
+  problem_enum_data: 问题基础数据设置
+  problem_type: 问题类型
+  problem_severity: 问题严重程度
+  process_type: 过程类型
+  project_report_type: 进展报告类型
+  doc_type: 文档类型
+  project_character_type: 项目特征类型
+  risk_enum_data_type: 风险基础数据设置
+  risk_type: 风险类型
+  risk_probability: 风险发生概率
+  risk_influence: 风险影响
+  risk_domain_value: 风险域值
+  risk_level: 风险级别
+  stakeholders_plan_enum_data: 利益相关方计划基础数据设置
+  stakeholders_activity_type: 活动类型
+  to_project_attitude: 对项目态度
+  participation_way: 参与方式
+  stakeholders_type: 利益相关方类型
+  scale_unit_enum_data: 规模单位基础数据设置
+  software_scale_unit: 软件规模单位
+  work_product_scale_unit: 软件产品规模单位
+  work_product_type: 工作产品类型
+  work_product_bug_type: 工作产品缺陷类型
+  task_type: 活动类型（任务类型）
+  baseline_type: 基线类型
+  baseline_type_name: 基线类型缩写
+  risk_enum_data_setting: 风险基础数据设置
+  activity_type: 活动类型
+  news_setting: 消息设置
+  news_setting_top_title: 消息中心设置
+  new_project_create_notice: 新项目建立通知
+  edit_email_template: 编辑邮件模板
+  com_number: 串口号
+  cas_server_setting: CAS服务器设置
+  monitoring_parameters_setting: 项目监控参数设置
+  schedule_tab_flag_text: SPI 运行很好下限
+  cost_tab_flag_text: CPI 运行很好下限
+  quality_tab_flag_text: Bug解决期限(天)
+  organization_track_tab_flag_text: 对应Qone活动类型
+  add_organization_track_rule: 添加估计跟踪规则
+  close_button: 关闭
+  error_reminding: CAS服务器设置失败，请重新设置
+
+  view_role_name: 系统管理(SA)
+  add_role_name: 报千OOP
+  alter_role_name: 小组长角色OOP
+  notice_success: 操作成功
+  cas_no: 否
+  cas_radio: 否
+  cas_name: CAS服务器名称
+  cas_domain: www.aa.cn
+  cas_port: 3
+  cas_description: 描述
+
+system_logger:
+  system_logger: 系统日志
+  configuration_database_logger: 配置库日志
+  permission_change_logger: 权限变更日志
+  login_logger: 登录日志
+  other_logger: 其他日志下载
+  other_logger_top_title: 操作日志列表
+  system_monitor_status: 当前在线用户
+  login_time_field: 登录时间
+
+
+system_outsource_settings:
+  system_outsource_settings: 系统外协设置
+  system_outsource_settings_top_title: 维护外协机构
+  add_outsource_button_name: 添加外协机构
+
+
+

@@ -1,0 +1,18 @@
+doc_manage: 文档管理
+doc_list:
+ doc_list: 文档列表
+ add_doc: 添加文档
+ look_doc: 查看文档
+ submit_button_name: 提交
+ close_button_name: 关闭
+ 
+doc_statistics_report: 文档统计报表
+
+doc_type_manage:
+ doc_type_manage: 文档类型管理
+ add_doc_type: 添加文档类型
+ modify_button_name: 修改
+ del_button_name: 删除
+ submit_button_name: 提交
+ close_button_name: 关闭
+ search_button_name: 查询

@@ -1,0 +1,62 @@
+
+my_dashborad:              #hash中套hash
+  name: 我的视图
+  title_name: 我的工作台 » 我的视图
+my_calendar:
+  name: 工作日历
+  title_name: 我的工作台 » 工作日历
+  child_name:                             #hash中套了arry
+  -  name: 测试嵌套1-A           #执行yamltest.rb文件
+  -  name: 测试嵌套1-B
+  -  name: liuyan
+  - test_child_name:
+     -  name: 测试嵌套2-回家
+     -  name: 测试嵌套2-出家
+my_task:
+  div_name: home_task
+  title_name: 我的工作台 » 我的任务
+  child_name:
+  -  name: 任务列表
+     page_title_name: 个人任务列表
+     page_title_element: :id
+     page_title_key: content
+  -  name: 提交任务报告
+     page_title_name: 任务报告提交
+     page_title_element: :class
+     page_title_key: x-btn-center
+  -  name: 审批任务报告
+     page_title_name: 任务报告审批
+     page_title_element: :class
+     page_title_key: x-btn-center
+  -  name: 个人任务数据
+     page_title_name: 个人任务数据
+     page_title_element: :id
+     page_title_key: content
+  -  name: 问题跟踪
+     page_title_name: 问题跟踪
+     page_title_element: :id
+     page_title_key: content
+  -  name: 我参与的评审
+     page_title_name: 我参与的评审
+     page_title_element: :id
+     page_title_key: content
+  -  name: NCI跟踪
+     page_title_name: NCI跟踪
+     page_title_element: :id
+     page_title_key: content
+  -  name: Bug跟踪
+     page_title_name: Bug跟踪
+     page_title_element: :id
+     page_title_key: content
+  -  name: 任务评论
+     page_title_name: 任务评论
+     page_title_element: :id
+     page_title_key: content
+  -  name: 风险跟踪
+     page_title_name: 风险跟踪
+     page_title_element: :id
+     page_title_key: content
+
+
+
+

@@ -1,0 +1,101 @@
+project_list:
+  project_name: qin0604test
+  
+  
+  
+project_estimate:
+  modify_professor_name: 刘淑微
+  professor_name: 刘淑琴
+  position: 软件测试
+  field: 软件行业
+  company: 中科方德
+  email: andysql@126.com
+  from_organization_import_expert_name: 系统管理员
+  estimate_percent_for_modify: 0.7
+  per_capita_productivity_type_for_delete_index: 3
+  per_capita_productivity_type_for_add: 简单试
+  per_capita_productivity_value_for_add: 0.9
+  one_day_a_cost_value_for_add: 400
+  difficulty_coefficient_name_for_add: 好吧
+  difficulty_coefficient_limit_for_add: 3
+  
+  
+config_manage:
+  contorl_scm_name: andy系统配置管理员
+  product_scm_name: qin系统配置管理员
+  config_library_name: 开发库3
+  repository_type: svn
+  connet_protocol: svn
+  server_address: 192.168.3.152
+  port: '3690'
+  warehouse_address: developDB
+  find_config_library_name: 开发库
+  modify_config_library_name: liushuqin
+  user_name: harry
+  pass_word: 123
+  change_describe_for_add: qin发起配置管理计划变更4
+  date_of_plan_for_add: '2012-06-26'
+  audit_person_for_add: qin项目配置管理员
+  change_describe_for_modify: wei发起配置管理计划变更
+  report_name_for_add: 配置管理报告02
+  report_start_time_add: '2012-06-25'
+  report_end_time_add: '2012-06-26'
+  date_of_report_add: '2012-06-26'
+  repoort_name_for_modify: 配置管理报告two
+  
+  
+project_report:
+  task_report_for_find: 测试test 
+  task_report_for_look: 过程审核test
+  task_report_for_approval: 产品审核test
+  examination_conclution: 待审
+  progress_report_type_for_add: 进展报告类型
+  report_name_for_add: qin进展报告
+  current_phase_of_project_for_add: qin终级阶段
+  review_situation_for_add: qin评审情况
+  resoureces_for_add: qin资源情况
+  training_for_add: qin培训情况
+  major_problem_analysis_for_add: qin重大问题分析
+  work_summary_for_add: qin本期工作总结
+  next_stage_arrangement_for_add: qin下阶段安排
+  reply_for_add: qin回复
+  project_overview_for_add: qin项目描述
+  software_actual_size_for_add: 1
+  software_reusability_for_add: 1
+  productivity_evaluation_for_add: qin生产率评价
+  acceptance_advice_for_add: qin验收意见
+  assess_of_subject_for_add: qin评估主题
+  assess_of_subject_for_modify: qin评估主题修改
+  assess_of_group_members_for_add: qin淑琴
+  start_date_for_add: '2012-07-01'
+  end_date_for_add: '2012-07-03'
+  assess_records_look_detail: 过程评估报告[评估主题:qin评估主题修改]
+
+work_product:
+  work_area_browse_for_select: 开发库
+  username_for_add: harry
+  password_for_add: 123
+  
+  
+product_review:
+  review_report_name: 产品评审报告test
+  review_sites: qin评审地点
+  date_of_review: '2012-07-10'
+  review_content: qin评审内容
+  assess_work_product_size: qin被评审工作产品规模
+  review_conclusion: 通过
+  review_comments: qin评审意见
+  defect_description: qin缺陷描述
+  assess_work_product: 工作产品test01
+  defect_type: 主
+  introduction_stage: 产品评审test
+  responsible_person: qin软件主管
+  width_for_modify: 200
+  height_for_modify: 200
+  
+  
+process_audit:
+  process_audit_report_for_find: 过程审核报告test
+  audit_plan_for_find: 过程管理过程test
+  
+  

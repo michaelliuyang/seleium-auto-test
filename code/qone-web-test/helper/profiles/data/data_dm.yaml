@@ -1,0 +1,11 @@
+login:
+ login_name: pmc
+ login_passwd: intec
+  
+doc:
+ title_for_add: cyy文档标题
+ title_for_modify: 新的cyy文档标题
+
+doc_type:
+ name_for_add: cyy文档类型
+ name_for_modify: 新的cyy文档类型

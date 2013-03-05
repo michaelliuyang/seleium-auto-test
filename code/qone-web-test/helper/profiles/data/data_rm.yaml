@@ -1,0 +1,9 @@
+login:
+  login_name: sa
+  login_passwd: intec
+product:
+  name_for_add: cyy产品
+  name_for_modify: 新的cyy产品
+user_group:
+  name_for_add: cyy用户组
+  name_for_modify: 新的cyy用户组

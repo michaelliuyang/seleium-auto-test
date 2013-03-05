@@ -1,0 +1,115 @@
+# wkb
+work_bench: 工作台
+
+my_todo:
+  my_todo: 我的待办
+  my_todo_page_title: 工作台 » 我的待办
+  todo: 待办
+  supervision: 督办
+  to_handle_form: 待处理的表单
+  check_to_handle_form_top_title: 流程处理历史
+  risk_for_tracking: 待跟踪的风险
+  to_deal_with: 待处理的问题
+  to_verificate_problem: 待验证的问题
+  to_be_confirmed_bug: 待确认的Bug
+  to_solve_bug: 待解决的Bug
+  to_checking_bug: 待验证的Bug
+  defer_bug: 延期的Bug
+  to_deal_project_evalue: 待处理的项目估计
+  to_submit_tast_report: 待提交的任务报告
+  task_report_submit: 任务报告提交
+  to_exam_and_approve: 待审批的任务报告
+  task_report_exam_and_approve: 任务报告审批
+  to_submit_report: 待提交的报告
+  department_report: 部门报告
+  to_reply_report: 待我批复的报告
+  to_submit_report: 待提交的报告
+  view_text: 操作面板
+  submit_button: 提交
+  save_button: 保存
+  close_button: 关闭
+  cancel_button: 取消
+
+work_calendar:
+  work_calendar: 工作日历
+  work_calendar_page_title: 工作台 » 工作日历
+  add_button: 添加
+  close: 关闭
+
+create_order:
+  create_order: 发起表单
+  create_order_page_title: 工作台 » 发起表单
+  create_order_top_title: 发起表单
+  expect_success_notice: 发起成功，已发起的表单可以到我的待办-表单-表单处理历史页面查看
+  submit_button: 提交
+  cancel_button: 取消
+  
+create_form:
+  create_form: 发起表单
+  create_form_page_title: 工作台 » 发起表单
+  notice_text: 发起成功，已发起的表单可以到我的待办-表单-表单处理历史页面查看
+  submit_button: 提交
+  top_title: 自定义表单模板
+  
+my_meeting:
+  my_meeting: 我的会议
+  my_meeting_page_title: 工作台 » 我的会议
+  meeting_summary_top_title: 会议纪要
+  all_meeting_summary: 全部会议纪要
+  draft_meeting_summary: 草稿状态的会议纪要
+  draft_top_title: 草稿状态的会议纪要列表
+  unread_meeting_summary: 未读的会议纪要
+  unread_top_title: 未读的会议纪要列表
+  tab_text_email: 人员列表
+  save_button: 保存草稿
+  submit_button: 提交
+  close_button: 关闭
+  meeting_summary_list: 会议纪要列表
+
+message_notice:
+  message_notice_name: 通知公告
+  message_notice_page_title: 工作台 » 通知公告
+  add_message_notice_button: 新增通知公告
+  view_top_title: 通知公告信息
+  save_button: 保存
+  submit_button: 发布
+  close_button: 关闭
+
+system_message:
+  system_message: 系统消息
+  message_send: 短信发送
+  system_notice: 系统公告
+  notice_list: 公告列表
+  new_notice: 新增公告
+  return: 返回
+  #spec
+  notice_title: 有公告
+  notice_content: 锻炼锻炼
+  alter_notice_title: 修改后的公告名字
+  alter_notice_content: 修改后的公告内容
+  view_notice_title: 公告信息
+
+# my_task:
+  # my_task: 我的任务
+  # task_list: 任务列表
+  # submit_task_report: 提交任务报告
+  # personal_task_list: 个人任务列表
+  # task_report_submit: 任务报告提交
+  # approve_task_report: 审批任务报告
+  # task_report_approve: 任务报告审批
+  # personal_task_data: 个人任务数据
+  # problem_track: 问题跟踪
+  # my_review: 我参与的评审
+  # my_audit: 我参与的审核
+  # nci_track: NCI跟踪
+  # bug_track: Bug跟踪
+  # task_comment: 任务评论
+  # risk_track: 风险跟踪
+  # submit: 提交
+  # alter_description: 修改描述了
+  # expect_view_problem_title: 项目管理-查看问题信息
+  # id: '23'
+  # submiter: wqx
+
+
+

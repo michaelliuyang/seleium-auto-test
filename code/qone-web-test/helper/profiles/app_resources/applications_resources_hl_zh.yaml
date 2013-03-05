@@ -1,0 +1,64 @@
+high_level_view: 高层视图
+dm_login_name: dmc
+login_passwd: intec
+
+project_monitor:
+ project_monitor: 项目监控
+ can_not_calculate: 无法计算
+ search_button_name: 查询
+ total_monitor: 总体监控
+ total: 总体
+ progress_monitor: 进度监控
+ progress: 进度
+ cost_monitor: 成本监控
+ cost: 成本
+ quality_monitor: 质量监控
+ quality: 质量
+ quality_statistics_graph: 质量统计图
+ quality_statistics_graph_title: 多项目数据统计分析 [截至当前日期前的最后一个报告期]
+ workload_monitor: 工作量监控
+ workload: 工作量
+ look_details: 查看详情
+ table_view: 表格视图
+ tree_view: 树形视图
+
+member_monitor:
+ member_monitor: 人员监控
+ member_workload_status: 人员工作量状态
+ table_view: 表格视图
+ member_workload_statistics: 人员工作量统计
+ tree_view: 树形视图
+ export_excel: 导出EXCEL
+ member_task_situation: 人员任务情况
+ data_statistics: 数据统计
+ member_data: 成员数据
+ work_log: 工作日志
+ left_tree_title: 部门项目管理
+ completed_log_search_title: 组织信息 人员日志情况
+ completed_log_search: 已填日志查询
+ not_completed_log_search: 未填日志查询
+ not_completed_log_search_title: 组织信息 -> 人员日志情况
+ print_task_daily_report: 打印任务日报
+ print_unplaned_task: 打印计划外任务
+ print_work_diary: 打印工作日记
+ search_button_name: 查询
+
+review_manage:
+ review_manage: 审阅管理
+ project_plan_change: 项目计划变更
+ plan_change_list: 计划变更列表
+ project_report: 项目报告
+ project_report_list: 项目报告列表
+ department_report: 部门报告
+ department_report_setting: 部门报告设置
+ close_button_name: 关闭
+ self_department_report: 本部门报告
+ sub_department_report: 下级部门报告
+ self_department_progress_report: 本部门进展报告
+ form_list: 表单列表
+ project_problem: 项目问题
+ problem_list: 问题列表
+ project_risk: 项目风险
+ risk_list: 风险列表
+ search_button_name: 查询
+ print_button_name: 打印

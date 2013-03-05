@@ -1,0 +1,76 @@
+#prom
+process_manage: 过程管理
+
+process_definition:
+  process_definition: 过程定义
+  standard_process: 标准过程
+  process_revised_information: 过程修订信息
+  standard_process_top_title: 组织标准过程
+  process_definition_top_title: 组织过程定义
+  process_revised_information_top_title: 过程修订信息
+  release_process: 过程发布
+  release_process_top_title: 过程发布信息
+
+process_assets:
+  process_assets: 过程资产
+  checklist_manage: 检查单管理
+  checklists_manage_top_title: 检查单分组内容
+  process_document: 过程文档
+  process_document_top_title: 文档列表
+  upload_document_top_title: 上传文档  
+  project_assets: 项目资产
+  project_assets_top_title: 项目资产列表
+  project_template: 项目模板
+  set_template_img: 设置成项目模板
+  template_name_title: 基本信息
+  risk_library_organization_level: 组织级风险库
+  risk_list_organization_level: 组织级风险列表
+  risk_describe_link_title: 风险详细信息
+  organization_standard_working_environment: 组织标准工作环境
+  standard_work_environment_top_title: 组织标准工作环境
+  unstandard_working_environment_button: 非标准工作环境
+  survival_cycle_model: 生存周期模型
+  submit_button: 提交
+  close_button: 关闭
+
+form_process_custom:
+  form_process_custom: 表单流程定制
+  form_custom: 表单定制
+  view_form_title: 查看表单
+  viewProcess_text: 操作面板
+  form_timing_task: 表单定时任务
+  form_timing_task_top_title: 表单定时任务列表
+  forms_template_for: 表单模板编制
+  forms_template_top_title: 自定义表单编辑器
+
+process_data_statistics:
+  process_data_statistics: 过程数据统计
+  process_use_situation: 过程使用情况
+  process_use_top_title: 过程使用情况
+  process_assess_tab_text: 过程评估
+  process_stability_tab_text: 过程稳定性
+  process_compliance_tab_text: 过程依从性
+  process_evaluation_statistics_tab_text: 过程评价统计
+  process_performance: 过程性能
+  process_performance_top_title: 过程性能基线报告列表
+
+templet_Settings:
+  templet_Settings: 模板设置
+  progress_report_template: 进展报告模板
+  modify_page_top_title: 修改进展报告模板
+  use_times_top_title: 进展报告模板使用情况
+  department_report_template: 部门报告模板
+  use_times_top_title_department: 部门报告模板使用情况
+  repository_structure_template: 配置库结构模板
+  view_top_title: 查看配置库结构模板
+  close_button: 关闭
+
+process_evaluation_evidence_table:
+  process_evaluation_evidence_table: 过程评估证据表
+  evaluation_table_top_title: 过程评估证据表列表
+
+
+
+
+
+

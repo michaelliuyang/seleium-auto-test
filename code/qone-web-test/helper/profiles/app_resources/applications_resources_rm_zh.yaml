@@ -1,0 +1,45 @@
+requirements_manage: 需求管理
+product_list:
+ product_list: 产品列表
+ add_product: 创建新产品
+ authority_setting: 权限设置
+ authority_setting_title: 权限列表
+ serial_number_setting: 编号设置
+ serial_number_setting_title: 编号规则设置
+ product_attribute: 产品级属性
+ close_button_name: 关闭
+ status_report_button_name: 状态报告
+ look_button_name: 查看
+ modify_button_name: 修改
+ del_button_name: 删除
+ history_product_list: 历史产品列表
+
+baseline_manage:
+ baseline_manage: 基线管理
+ baseline_list: 基线列表
+ history_baseline_list: 历史基线列表
+
+requirements_track:
+ requirements_track: 需求跟踪
+ requirements_track_matrix: 需求跟踪矩阵
+ requirements_task_track: 需求与任务跟踪
+ stage_track_work_product: 按阶段跟踪工作产品
+
+base_data_setting:
+ base_data_setting: 基础数据设置
+ template_setting: 模板设置
+ template_setting_title: 自定义表单编辑器
+ user_group_manage: 用户组管理
+ add_button_name: 添加
+ return_button_name: 返回
+ close_button_name: 关闭
+ sure_button_name: 确定
+ submit_button_name: 提交
+ user_group_detail: 用户组明细
+ attribute_setting: 属性设置
+ attribute_setting_title: 系统级属性
+ add_attribute_button_name: 添加
+ baseline_change_setting: 基线变更设置
+ add_form_button_name: 新建表单
+ add_form_title: 定义表单
+ close_button_name: 关闭

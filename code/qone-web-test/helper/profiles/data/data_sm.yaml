@@ -1,0 +1,31 @@
+login:
+  login_name: sa
+  login_passwd: intec
+
+department:
+  name_for_add: cyy部门
+  name1_for_add: hcy部门
+  name_for_modify: 新的cyy部门
+  
+sub_department:
+  name: cyy子部门
+  
+position:
+  name_for_add: cyy职位
+  name_for_modify: 新的cyy职位
+  
+user:
+  name: cyy项目经理
+  name_for_modify: cyyyyy项目经理
+  login_name_for_add: cyypm
+  login_passwd: intec
+  email: ddd@ddd.ddd
+  
+doc_type:
+  name: cyy文档类型
+  description: cyy文档类型描述 
+  
+outsource:
+  name_for_add: cyy外协机构
+  name_for_modify: 新的cyy外协机构
+

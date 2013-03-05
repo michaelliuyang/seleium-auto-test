@@ -1,0 +1,73 @@
+#cm
+configuration_management: 配置管理
+
+
+config_item_browse:
+  config_item_browse: 配置项浏览
+  config_item_browse_view: 配置项浏览视图
+  software_control_library: 软件受控库
+  control_library_config_items_of_basic_information: 受控库配置项基本信息
+  controlled_library_storage_application: 受控库入库申请
+  controlled_library_database_application: 受控库出库申请
+  change_request: 变更申请
+  change_report: 变更报告
+  software_product_library: 软件产品库
+  product_library_config_items_of_basic_information: 产品库配置项基本信息
+  product_library_storage_application: 产品库入库申请
+  product_library_database_application: 产品库出库申请
+  product_database_for_publication: 产品库发布申请
+  table_view: 表格视图
+  tree_view: 树形视图
+  table_view_print: 打印
+  close: 关闭
+  cancel: 取消
+  submit: 提交
+
+
+baseline_browse:
+  baseline_browse: 基线浏览
+  baseline_browse_view: 基线浏览视图
+  baseline_basic_information: 基线基本信息
+  the_baseline_is_established_for: 基线建立申请
+  baseline_database_application: 受控库出库申请
+  table_view: 表格视图
+  tree_view: 树形视图
+  close: 关闭
+  cancel: 取消
+  submit: 提交
+
+
+config_process_list:
+  config_process_list: 配置流程列表
+  config_process_list_title: 配置流程列表
+  processing: 处理中
+  processed: 已处理
+  close: 关闭
+
+
+
+config_audit:
+  config_audit: 配置审核
+  config_audit_report: 配置审核报告
+  pending: 待审核
+  approved: 已审核
+  new_audit_report: 新增审核报告
+  new_audit_report_import_check_list: 导入检查单
+  print: 打印
+  close: 关闭
+  submit: 提交
+
+
+
+config_library_relation:
+  config_library_relation: 配置库关联
+  config_library_relation_list: 配置库关联列表
+  control_library: 受控库
+  product_library: 产品库
+  modify_relation: 修改
+  config_library_information: 配置库信息
+  create_user_relation: 创建用户关联
+  user_config_state: 用户配置状态
+  submit: 提交
+  close: 关闭
+

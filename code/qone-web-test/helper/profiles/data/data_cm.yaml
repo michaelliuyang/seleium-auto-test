@@ -1,0 +1,37 @@
+login:
+ pcm_login_name: qinpcm
+ scm_login_name: qinscm
+ login_password: intec
+  
+config_item_browse:
+  configuration_item_name: 'test001'
+  configuration_item_identification: 'CR-qin0604-test001'
+  change_request_item_identification: 'CR-qin0604-test002'
+  database_config_item_identification: 'CR-qin0604-test003'
+  change_report_item_identification: 'CR-qin0604-test004'
+  product_item_name: 'test001'
+  product_item_identification: 'PR-qin0604-test001'
+  
+  
+baseline_browse:
+  baseline_name: 'test001'
+  baseline_item_identification: 'FB-qin0604-test001'
+  
+  
+config_process_list:
+  check_the_application_form: 'BR-FB-qin0604-test001-1.00'
+  
+  
+config_audit:
+  audit_products: 审核产品test
+  audit_conclusion: 审核结构test
+  serial_number: '1'
+  
+  
+config_library_relation:
+  cm_username: harry
+  cm_password: 123
+  
+  
+
+

@@ -1,0 +1,4 @@
+browser: :ff
+url: http://localhost:8080
+login_name: sa 
+login_pwd: intec

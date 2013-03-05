@@ -1,0 +1,36 @@
+#mea
+measure_analysis: 测量分析
+
+measure_setup:
+  measure_setup: 测量设置
+  measure_index: 测量指标
+  measure_index_top_title: 测量指标体系
+  measure_target: 测量目标
+  measure_target_top_title: 组织级测量目标
+  view_measure_target_title: 查看测量目标
+  submit_button: 提交
+
+project_measure:
+  project_measure: 项目测量
+  project_list: 项目列表
+  project_name_link_title: 项目测量目标列表
+  measure_activity_tab_title: 项目测量活动列表
+
+organization_measure:
+  organization_measure: 组织测量
+  process_baselines_report: 过程性能基线报告
+  baselines_report_top_title: 过程性能基线报告列表
+  report_name_link_top_title: 查看过程性能基线报告
+  baselines_evolution_trend: 过程性能基线演化趋势
+
+data_center:
+  data_center: 数据中心
+  data_center_top_title: 主题视图
+
+custom_report:
+  custom_report: 自定义报表  #ss limits of power
+  reports_list: 报表列表
+  reports_list_top_title: 数据报表
+  reports_permission_types: 报表类型权限设置
+  reports_permission_top_title: 报表权限设置 
+

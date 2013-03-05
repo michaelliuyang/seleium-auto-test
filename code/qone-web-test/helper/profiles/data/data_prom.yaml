@@ -1,0 +1,103 @@
+epg_login_name: myyepg
+password: intec
+
+process_revised:
+  revised_id: '1'
+  content_for_add: 修订内容abc
+  content_for_modify: 修订内容defg
+
+process_release:
+  release_id: '1'
+  content: 发布通知内容hijklmn
+  form_name: 过程发布
+
+evaluation_method:
+  name_for_add: 评价方式名称9
+  name_for_modify: 评价方式名称9aaaaa
+  evaluation_content: 枚举型9
+  
+process_document:
+  num_for_add: '0002'
+  num_for_modify: '0002a'
+  
+project_assert:
+  num_for_add: '0001'
+  num_for_modify: 伙
+  assert_name: 第一个资产
+  
+project_template:
+  template_num: sub
+  template_name: sub
+  
+organization_risk:
+  riskID: '8'
+  risk_describe: 1
+  risk_describe_for_modify: 风险描述defg
+  content: 发生的阶段1
+  influence: 影响1
+  mitigation: 缓解措施1
+  emergency: 应急措施1
+  reasons: 风险变更啦.....
+  
+work_environment:
+  classification: 分类4
+  type_for_add: 种类add
+  type_for_modify: 种类modi
+  type_for_delete: 种类del
+  name: 分类名字1
+  
+survival_cycle:
+  name_for_add: 生存周期add
+  name_for_modify: 生存周期mod
+  name_for_delete: 生存周期del
+  name_for_view: 生存周期view
+  name_for_related: 生存周期related
+  
+form_custom:
+  name_for_add: 自动化表单add
+  name_for_modify: 自动化表单aaa
+  name_for_delete: 自动化表单del
+  name_for_view: 出差申请
+  
+form_timing:
+  title_for_add: 标题1
+  title_for_modify: 标题1aaaa
+  name: 定时任务名称1
+  apart_days: '9'
+
+process_performance:
+  name_for_add: 基线报告名称aa
+  name_for_modify: 基线报告名称mod
+ # name_for_delete: 基线报告名称dele
+ # name_for_publish: 基线报告名称pub
+  creat_time: '2012-08-15'
+  expect_time_start: '2012-08-15'
+  expect_time_end: '2012-08-25'
+  
+progress_report:
+  name_for_add: 模板名称add
+  name_for_modify: 模板名称mod
+  name_for_delete: 模板名称dele
+  template_describe: 模板描述aaa....
+  form_template: 无审批
+  title: 已经被使用0次
+  
+department_report:
+  name_for_add: 模板名称add
+  name_for_modify: 模板名称mod
+  name_for_delete: 模板名称dele
+  template_describe: 模板描述aaa.....
+  form_template: 无审批
+  title: 已经被使用0次
+  
+repository_template:
+  name_for_add: 模板名称add
+  name_for_modify: 模板名称mod
+  name_for_delete: 模板名称dele
+
+evaluation_evidence_table:
+  name_for_add: 模板名称add11
+  name_for_modify: 模板名称mod
+  name_for_delete: 模板名称dele
+  evaluation_level: 四级
+  

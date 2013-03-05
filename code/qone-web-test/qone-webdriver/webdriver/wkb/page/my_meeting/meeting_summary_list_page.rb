@@ -1,0 +1,30 @@
+require 'webdriver/common/base_page'
+require 'webdriver/support/menu_action'
+require 'webdriver/support/component'
+
+module WebDriver
+  module Wkb
+    module Page
+      module MyMeeting
+        class MeetingSummaryListPage < Common::BasePage
+          include Support::MenuAction
+
+          def top_title
+            @driver[:css => '#content h2'].text
+          end
+
+          def to_this_page
+            @wkb_profiles = Helper::ReadProfiles.apps_res_zh :wkb
+            work_bench = @wkb_profiles['work_bench']
+            my_meeting = @wkb_profiles['my_meeting']['my_meeting']
+            meeting_summary_list = @wkb_profiles['my_meeting']['meeting_summary_list']
+
+            menu_click work_bench
+            menu_click_for_hide my_meeting,meeting_summary_list
+          end
+
+        end # MeetingSummaryListPage
+      end#MyMeeting
+    end#  Page
+  end # Wkb
+end #WebDriver
